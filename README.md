@@ -6,7 +6,7 @@ Utilizar esses comandos para as dependências:
 E para iniciar
 - npm run start:dev
 
-Obs: caso de erro mude a porta do localhost (no server.ts e no /pages/index.js
+Obs: caso de erro mude a porta do localhost (no server.ts e no /pages/index.js)
 
 Caso queira ver a pages é : 
 - https://bielmaiolli.github.io/Conexao_html_Crud_Extra/pages/index.html
